@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there :)
 
-<!--
-**aaron-jack-manning/aaron-jack-manning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aaron and I'm a developer at Argo Logic and pure mathematics student at UNSW, who spends my spare time on the projects you see on this page.
 
-Here are some ideas to get you started:
+According to the amount of code I've written in different languages across all repositories, this is how I spend my time:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Language  | Percentage |
+| ------------- | ------------- |
+| F# | 37 |
+| OCaml | 33 |
+| C# | 14 |
+| C | 9 |
+| Rust | 4 |
+| R | 3 |
