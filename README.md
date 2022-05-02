@@ -4,4 +4,4 @@ My name is Aaron and I'm a full time university student and part time software d
 
 ##### Repository Stats
 
-<img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-jack-manning&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+<img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-jack-manning&exclude_repo=koka-experiments-and-libraries&theme=nord&hide_title=true&hide_border=true&layout=compact&langs_count=12">
