@@ -1,1 +1,1 @@
-I am in the process of moving all my code away from GitHub to a self hosted option [here](https://git.aaronmanning.net/aaronmanning).
+I no longer use GitHub. Everything has been moved [here](https://git.aaronmanning.net/aaronmanning).
